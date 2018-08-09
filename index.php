@@ -6,6 +6,7 @@
 </head>
 <body>
 	<h1>Primer Ejercicio</h1>
+	<h2>Segudo titulo</h2>
 	<p>Escribiendo la primera cosa</p>
 	<footer>
 		<p>Pie de Pagina</p>
