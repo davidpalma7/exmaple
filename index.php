@@ -2,13 +2,16 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
 	<title>Home</title>
 	<header>
 		<nav>
-			<li>menu1</li>
-			<li>menu2</li>
-			<li>menu3</li>
-			<li>menu4</li>
+			<ul>
+				<li>menu1</li>
+				<li>menu2</li>
+				<li>menu3</li>
+				<li>menu4</li>
+			</ul>
 		</nav>
 	</header>
 </head>
