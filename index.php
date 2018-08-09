@@ -9,6 +9,8 @@
 	<p>Escribiendo la primera cosa</p>
 	<footer>
 		<p>Pie de Pagina</p>
+		<br>
+		<p>Desarrollado por ...</p>
 	</footer>
 </body>
 </html>
