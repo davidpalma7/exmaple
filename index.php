@@ -10,7 +10,7 @@
 	<footer>
 		<p>Pie de Pagina</p>
 		<br>
-		<p>Desarrollado por ...</p>
+		<p>Desarrollado por <a href="#">David Palma</a></p>
 	</footer>
 </body>
 </html>
